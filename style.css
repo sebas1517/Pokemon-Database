@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap");
 
 :root {
-	--pokemon-yellow: #ffcb06;
+	--pokemon-orange: #d3a31e;
 	--pokemon-blue: #3366af;
 }
 
@@ -16,7 +16,7 @@ html {
 }
 
 body {
-	background-color: rgb(212, 136, 23);
+	background-color: var(--pokemon-orange);
 }
 
 .flex {
