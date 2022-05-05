@@ -67,7 +67,7 @@ function success(midiAccess){
 
     })
 }
-var result = confirm("You will get a randomly generated Pokemon using any of the four buttons in the center of the launchpad. With the red portion of the launchpad, you can play an og theme. Cancel or reset theme/launchpad by pressing any of the empty four corners. "+
+var result = confirm("You will get a randomly generated Pokemon using any of the four buttons in the center of the launchpad. With the top red or white bottom portion of launchpad you can play two different og tunes. Cancel or reset theme/launchpad by pressing any of the empty four corners. "+
               "Enjoy!");
 
               
