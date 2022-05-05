@@ -1,7 +1,7 @@
 let device;
 let audio = new Audio('sounds/lvl_up.mp3');
 let theme = new Audio('sounds/101-opening.mp3');
-let lakeTheme = new Audio('sound/101-opening.mp3');
+let lakeTheme = new Audio('sounds/Lake_Verity.mp3');
 const dataApi = {
 	apiUrl: "https://pokeapi.co/api/v2/",
 	endpoint: "pokemon/",
@@ -163,52 +163,52 @@ function noteOn(note){
 
     if (note == 38) {
         lakePlay();
-            clearBottom();
+        clearBottom();
     } else if (note == 39) {
         lakePlay();
-            clearBottom();
+        clearBottom();
     } else if (note == 68) {
         lakePlay();
-            clearBottom();
+        clearBottom();
     } else if (note == 69) {
         lakePlay();
-            clearBottom();
+        clearBottom();
     } else if (note == 41) {
         lakePlay();
-            clearBottom();
+        clearBottom();
     } else if (note == 42) {
         lakePlay();
-            clearBottom();
+        clearBottom();
     } else if (note == 43) {
         lakePlay();
-            clearBottom();
+        clearBottom();
     } else if (note == 72) {
         lakePlay();
-            clearBottom();
+        clearBottom();
     } else if (note == 73) {
         lakePlay();
-            clearBottom();
+        clearBottom();
     } else if (note == 74) {
         lakePlay();
-            clearBottom();
+        clearBottom();
     } else if (note == 44) {
         lakePlay();
-            clearBottom();
+        clearBottom();
     } else if (note == 45) {
         lakePlay();
-            clearBottom();
+        clearBottom();
     } else if (note == 46) {
         lakePlay();
-            clearBottom();
+        clearBottom();
     } else if (note == 77) {
         lakePlay();
-            clearBottom();
+        clearBottom();
     } else if (note == 78) {
         lakePlay();
-            clearBottom();
+        clearBottom();
     } else if (note == 79) {
         lakePlay();
-            clearBottom();
+        clearBottom();
     }
 
     if (note == 99) {
